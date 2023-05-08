@@ -2,6 +2,7 @@ interface Post {
   id: number;
   text: string;
   author: string;
+  likes: number;
   created_at: string;
 }
 
