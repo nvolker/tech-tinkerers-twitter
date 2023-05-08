@@ -1,4 +1,4 @@
-## Tech Tinkerers Twitter
+## Tech Tinkerer's Twitter
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -16,7 +16,7 @@ Rename the `.env.example` file to `.env` and fill in your name and get the `DATA
 
 ### Alternative to TypeScript
 
-If you don't feel comfortable with TypeScript, you can use the JavaScript version of the template by changing all the `.tsx` extensions to `.jsx` and removing the `@types/react` dependency.
+If you are not comfortable with TypeScript, you can use the JavaScript version of the template. For this, change all the `.tsx` extensions to `.jsx`.
 
 ## Development
 
