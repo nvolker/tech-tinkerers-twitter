@@ -91,7 +91,7 @@ export default function Home({
           {/* Create a form for the create post button to allow input for the post text */}
           {process.env.NODE_ENV === "development" && (
             <form
-              onSubmit={async (event) => {
+              onSubmit={async (event: any) => {
                 event.preventDefault();
                 const text = event.target[0].value as string;
                 await fetch(`/api/posts`, {
